@@ -41,6 +41,14 @@ performance while penalising large deviations from training performance.
 - Some assets demonstrated strong out-of-sample performance.
 - Train-test validation helped reduce overfitting risk.
 
+## Example Signals
+
+![Signal Chart](signal_chart.png)
+
+## Example Equity Curve
+
+![Equity Curve](equity_curve.png)
+
 ## Future Improvements
 - Walk-forward optimisation
 - Volatility targeting
